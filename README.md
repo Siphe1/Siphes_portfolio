@@ -1,2 +1,2 @@
-# Siphes_portfolio
-Subscription project
+# Siphe Mbonambi - Data Analysis Portfolio
+## About
