@@ -13,7 +13,7 @@ In the below section I will list some of my data analytics projects a give a bri
 
 **Description**: The project is focused on analysing the toys sales dataset from January 2022 to July 2023. Though the time period is short we want to see if there is any insight that can be discovered from it. We will merge together the sales dataset, the products dataset and the store dataset. We will then perform some data cleaning, feature engineering, exploratory data analysis and lastly ask some business questions that will help us get insight from the data.
 
-**Skills**: Data cleaning, exploratory data analysis, data visualisations.
+**Skills**: Data Cleaning, Exploratory Data Analysis, Data Visualisations.
 
 **Technology**: Python, Pandas, Seaborn, Matplotlib
 
@@ -22,3 +22,14 @@ We noticed that Downtown stores are the most profitable locations by a huge marg
 
 
 
+### Using the service sales dataset in order to predict if people will subsribe to the offered digital services 
+
+**Code**: ['Predicting subsriptions of digital service'](https://github.com/Siphe1/Siphes_portfolio/blob/main/Subscription%20Prediction%20Project.ipynb)
+
+**Goal**: To create a machine learning model that can predict if a client will subsribe to offered services based on their demographic, economic and behavioural data.
+
+**Description**: 
+
+**Skills**: Data cleaning, Exploratory Data Analysis, Machine Learning
+
+**Technology**: Python, Pandas, Seaborn, Matplotlib, scikit-learn
