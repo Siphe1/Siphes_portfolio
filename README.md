@@ -7,3 +7,12 @@ In the below section I will list some of my data analytics projects a give a bri
 
 ### Analysing the toys dataset in order to gain any useful insight that could help grow the industry
 **Code**: 
+**Goal**: To analyse the data to find any patterns and possible opportunities that can be used to boast sales.
+**Description**: The project is focused on analysing the toys sales dataset from January 2022 to July 2023. Though the time period is short we want to see if there is any insight that can be discovered from it. We will merge together the sales dataset, the products dataset and the store dataset. We will then perform some data cleaning, feature engineering, exploratory data analysis and lastly ask some business questions that will help us get insight from the data.
+**Skills**: Data cleaning, exploratory data analysis, data visualisations.
+**Technology**: Python, Pandas, Seaborn, Matplotlib
+**Results**: Some of the things we learned from our analysis is that December is the month with the highest profits which adds up as it is christmas and a lot of toys are bought in that season. We could boast new toy ranges that are only avaiable in this season in order to further boast profits with limited edition products.
+We noticed that Downtown stores are the most profitable locations by a huge margin with airport being the lowest. We could try boast the airport sales as they have a lot of foot traffic and when people travel love to buy souvenirs so we could try implement those type of products to the stores. We were also able to identify that the Dino Egg has the lowest profit margin and we could look into the impact of increasing it's price in order to gain a higher profit margin without impacting how many are sold. Lastly we noticed that Colorbuds was the most sold products with peak sales being in summer of 01-2022. There has been a steady drop though of the total unit sales of the product and a solution needs to be found to why the highest sold products is dropping unit sales consistently through the months.
+
+
+
