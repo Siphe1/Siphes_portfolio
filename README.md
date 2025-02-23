@@ -5,5 +5,5 @@ Hi, I am Siphe. I am currently on my second and final year of my Master's degree
 ## Portfolio Projects
 In the below section I will list some of my data analytics projects a give a brief discription of the technology used in order to analyse the data.
 
-## Analysing the toys dataset in order to gain any useful insight that could help grow the industry
+### Analysing the toys dataset in order to gain any useful insight that could help grow the industry
 
