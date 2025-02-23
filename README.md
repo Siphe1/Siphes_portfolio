@@ -7,7 +7,7 @@ In the below section I will list some of my data analytics projects a give a bri
 
 ### Analysing the toys dataset in order to gain any useful insight that could help grow the industry
 
-**Code**: 
+**Code**: [`Analysis on the toys dataset`](https://github.com/Siphe1/Siphes_portfolio/blob/main/Toys_Sales_Project_.ipynb)
 
 **Goal**: To analyse the data to find any patterns and possible opportunities that can be used to boast sales.
 
