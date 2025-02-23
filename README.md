@@ -22,6 +22,8 @@ We noticed that Downtown stores are the most profitable locations by a huge marg
 
 
 
+
+
 ### Using the service sales dataset in order to predict if people will subsribe to the offered digital services 
 
 **Code**: ['Predicting subsriptions of digital service'](https://github.com/Siphe1/Siphes_portfolio/blob/main/Subscription%20Prediction%20Project.ipynb)
