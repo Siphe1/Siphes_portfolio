@@ -5,7 +5,7 @@ Hi, I am Siphe. I am currently on my second and final year of my Master's degree
 ## Portfolio Projects
 In the below section I will list some of my data analytics projects a give a brief discription of the technology used in order to analyse the data.
 
-### Analysing the toys dataset in order to gain any useful insight that could help grow the industry
+## Analysing the toys dataset in order to gain any useful insight that could help grow the industry
 
 **Code**: [`Analysis on the toys dataset`](https://github.com/Siphe1/Siphes_portfolio/blob/main/Toys_Sales_Project_.ipynb)
 
@@ -24,7 +24,7 @@ We noticed that Downtown stores are the most profitable locations by a huge marg
 
 
 
-### Using the service sales dataset in order to predict if people will subsribe to the offered digital services 
+## Using the service sales dataset in order to predict if people will subsribe to the offered digital services 
 
 **Code**: ['Predicting subsriptions of digital service'](https://github.com/Siphe1/Siphes_portfolio/blob/main/Subscription%20Prediction%20Project.ipynb)
 
