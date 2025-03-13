@@ -9,7 +9,7 @@ In the below section I will list some of my data analytics projects a give a bri
 
 **Code**: [`Analysis on the toys dataset`](https://github.com/Siphe1/Siphes_portfolio/blob/main/Toys_Sales_Project_.ipynb)
 
-**Goal**: To analyse the data to find any patterns and possible opportunities that can be used to boast sales.
+**Goal**: To analyse the data to find any patterns and possible opportunities that can be used to boost sales.
 
 **Description**: The project is focused on analysing the toys sales dataset from January 2022 to July 2023. Though the time period is short we want to see if there is any insight that can be discovered from it. We will merge together the sales dataset, the products dataset and the store dataset. We will then perform some data cleaning, feature engineering, exploratory data analysis and lastly ask some business questions that will help us get insight from the data.
 
